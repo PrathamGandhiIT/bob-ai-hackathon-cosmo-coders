@@ -1,8 +1,8 @@
-# System Architecture: ChainGuard AI
+# System Architecture: Supply Guard AI
 
 ## Overview
 
-ChainGuard AI follows a modern, decoupled client-server architecture designed for high throughput, low latency, and operational resilience. The system integrates a reactive single-page frontend with an asynchronous Python backend, backing analytics via an optimized relational SQLite data layer and AI reasoning via IBM watsonx.ai.
+Supply Guard AI follows a modern, decoupled client-server architecture designed for high throughput, low latency, and operational resilience. The system integrates a reactive single-page frontend with an asynchronous Python backend, backing analytics via an optimized relational SQLite data layer and AI reasoning via IBM watsonx.ai.
 
 ---
 

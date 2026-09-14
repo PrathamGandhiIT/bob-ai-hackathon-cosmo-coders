@@ -1,6 +1,6 @@
-# Setup Guide: ChainGuard AI
+# Setup Guide: Supply Guard AI
 
-> **This file provides comprehensive instructions for local development, verification, and testing of ChainGuard AI.**
+> **This file provides comprehensive instructions for local development, verification, and testing of Supply Guard AI.**
 
 ---
 
@@ -11,7 +11,7 @@ Before running the application, ensure your environment has:
 - **Python 3.10+** (Tested on 3.10, 3.11, 3.12)
 - **Node.js 18+** and **npm 9+**
 - **Git**
-- *(Optional)* **IBM watsonx.ai Account**: An IBM Cloud API key and Project ID for live foundation model queries. *(Note: ChainGuard AI includes an intelligent domain-heuristic fallback engine, allowing full functionality even without live watsonx credentials).*
+- *(Optional)* **IBM watsonx.ai Account**: An IBM Cloud API key and Project ID for live foundation model queries. *(Note: Supply Guard AI includes an intelligent domain-heuristic fallback engine, allowing full functionality even without live watsonx credentials).*
 
 ---
 

@@ -43,7 +43,7 @@ Modern supply chain and logistics operations teams face three critical operation
 
 ## Why Existing Solutions Fall Short
 
-| Traditional Approach | Core Weakness | ChainGuard AI Advantage |
+| Traditional Approach | Core Weakness | Supply Guard AI Advantage |
 | :--- | :--- | :--- |
 | **Siloed Legacy TMS (Transportation Management Systems)** | Store historical route data; cannot ingest live disruption feeds or correlate spatial impacts automatically. | Real-time automated spatial and lane correlation engine that immediately surfaces affected shipments. |
 | **Manual Excel Spreadsheets & Email Chains** | Rerouting options are gathered manually via phone calls and broker quotes, taking hours or days. | Multi-carrier recommendation engine generating ranked alternatives with multi-objective trade-offs in seconds. |

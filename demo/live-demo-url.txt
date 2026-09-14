@@ -1,6 +1,6 @@
 http://localhost:5173
 
-ChainGuard AI runs locally in seconds:
+Supply Guard AI runs locally in seconds:
 - Frontend Dashboard: http://localhost:5173
 - Backend REST API: http://localhost:8000
 - Interactive Swagger Docs: http://localhost:8000/docs

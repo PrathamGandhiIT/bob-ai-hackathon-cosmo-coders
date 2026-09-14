@@ -30,7 +30,7 @@ Place your finalized slide export here as `slides.pdf` or `slides.pptx`.
 - **Visual**: Screenshot of `04_reroute_alternatives_tradeoffs.png`
 - **Talking Points**:
   - Traditional systems only optimize on single factors (lowest cost or fastest speed).
-  - ChainGuard AI calculates Pareto-optimal trade-offs across **Cost ($), Delay (Days), Risk Index (0-100), and CO2 Emissions (kg)**.
+  - Supply Guard AI calculates Pareto-optimal trade-offs across **Cost ($), Delay (Days), Risk Index (0-100), and CO2 Emissions (kg)**.
   - Human-in-the-loop decision capability: dispatchers review transparent multi-carrier alternatives before committing.
 
 ### Slide 5: Fleet Optimization & Cold-Chain IoT Guard

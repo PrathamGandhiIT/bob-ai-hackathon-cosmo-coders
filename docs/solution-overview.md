@@ -1,10 +1,10 @@
-# Solution Overview: ChainGuard AI
+# Solution Overview: Supply Guard AI
 
 ## What We Built
 
-**ChainGuard AI** is an intelligent, autonomous Supply Chain Control Tower and Fleet Utilization Optimizer designed for enterprise logistics managers, freight forwarders, and dispatchers. 
+**Supply Guard AI** is an intelligent, autonomous Supply Chain Control Tower and Fleet Utilization Optimizer designed for enterprise logistics managers, freight forwarders, and dispatchers. 
 
-ChainGuard AI transforms reactive supply chain firefighting into proactive resilience by:
+Supply Guard AI transforms reactive supply chain firefighting into proactive resilience by:
 1. **Detecting & Correlating Disruptions in Real Time**: Continuously mapping active port strikes, canal chokepoints, severe storms, and geopolitical conflicts against active freight corridors.
 2. **Generating Multi-Carrier Rerouting Recommendations**: Providing ranked alternative routes with an objective scoring algorithm comparing Cost, Delay, Risk, and CO2 emissions.
 3. **Optimizing Fleet Vehicle Utilization**: Identifying idle capacity, calculating re-allocation potential, and minimizing empty miles.
@@ -60,7 +60,7 @@ flowchart TD
 ## IBM Technologies Used
 
 ### 1. IBM watsonx.ai (`ibm/granite-13b-instruct-v2` / `meta-llama/llama-3-70b-instruct`)
-- **How it is used**: ChainGuard AI utilizes the watsonx.ai Python SDK (`ibm-watsonx-ai`) to orchestrate enterprise-grade generative intelligence. When an operator queries the Copilot, the backend gathers relevant live system context (affected shipments, available fleet units, active route hazards) and prompts watsonx foundation models with structured domain guidelines.
+- **How it is used**: Supply Guard AI utilizes the watsonx.ai Python SDK (`ibm-watsonx-ai`) to orchestrate enterprise-grade generative intelligence. When an operator queries the Copilot, the backend gathers relevant live system context (affected shipments, available fleet units, active route hazards) and prompts watsonx foundation models with structured domain guidelines.
 - **Output**: Generates clear, executive-grade operational summaries, recovery playbooks, risk trade-offs, and structured operational next steps.
 
 ### 2. IBM Bob AI Innovation Hackathon Tooling

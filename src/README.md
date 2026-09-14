@@ -1,6 +1,6 @@
-# ChainGuard AI — Source Code Directory
+# Supply Guard AI — Source Code Directory
 
-This directory contains the complete source code for ChainGuard AI, split into backend and frontend services.
+This directory contains the complete source code for Supply Guard AI, split into backend and frontend services.
 
 ---
 
