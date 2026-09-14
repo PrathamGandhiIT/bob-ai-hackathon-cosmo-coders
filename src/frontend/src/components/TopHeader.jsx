@@ -175,10 +175,10 @@ export default function TopHeader({ onOpenSearch }) {
               justifyContent: 'center',
             }}
           >
-            HD
+            PG
           </div>
           <span style={{ fontSize: '12px', fontWeight: 600, color: 'var(--text-primary)' }}>
-            Harshit Dhanani
+            Pratham Gandhi
           </span>
           <ChevronDown size={12} color="var(--text-muted)" />
         </div>
