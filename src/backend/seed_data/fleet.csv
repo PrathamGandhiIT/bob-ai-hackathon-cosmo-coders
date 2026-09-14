@@ -1,0 +1,21 @@
+vehicle_id,type,location,status,capacity_tons,utilization_pct,is_refrigerated,current_destination,driver_name,last_maintenance
+FLT-001,Standard Truck,Mumbai,Active,15,78,false,Delhi,Rajesh Kumar,2026-09-01
+FLT-002,Refrigerated Truck,Pune,Idle,12,0,true,,Amit Sharma,2026-09-10
+FLT-003,Heavy Truck,Delhi,Active,25,85,false,Kolkata,Vikram Singh,2026-08-28
+FLT-004,Refrigerated Truck,Ahmedabad,Idle,10,0,true,,Suresh Patel,2026-09-08
+FLT-005,Standard Truck,Chennai,Active,15,62,false,Bangalore,Karthik Rajan,2026-09-05
+FLT-006,Van,Bangalore,Idle,5,0,false,,Mahesh Reddy,2026-09-12
+FLT-007,Container Truck,Mumbai,Active,20,91,false,Ahmedabad,Farhan Khan,2026-09-03
+FLT-008,Refrigerated Truck,Hyderabad,Idle,8,0,true,,Prasad Rao,2026-09-09
+FLT-009,Standard Truck,Kolkata,Active,15,45,false,Varanasi,Debashis Mukherjee,2026-09-06
+FLT-010,Heavy Truck,Jaipur,Active,25,72,false,Delhi,Ramesh Meena,2026-08-30
+FLT-011,Refrigerated Truck,Mumbai,Active,12,55,true,Pune,Ganesh Patil,2026-09-07
+FLT-012,Standard Truck,Nagpur,Idle,15,0,false,,Sanjay Deshmukh,2026-09-11
+FLT-013,Van,Delhi,Active,5,88,false,Lucknow,Arun Verma,2026-09-04
+FLT-014,Container Truck,Chennai,Idle,20,0,false,,Senthil Kumar,2026-09-10
+FLT-015,Refrigerated Truck,Bangalore,Active,10,38,true,Chennai,Deepak Nair,2026-09-08
+FLT-016,Standard Truck,Pune,Active,15,67,false,Mumbai,Nitin Joshi,2026-09-02
+FLT-017,Heavy Truck,Ahmedabad,Idle,25,0,false,,Jayesh Modi,2026-09-13
+FLT-018,Refrigerated Truck,Lucknow,Idle,8,0,true,,Alok Tiwari,2026-09-11
+FLT-019,Standard Truck,Hyderabad,Active,15,53,false,Bangalore,Venkat Reddy,2026-09-05
+FLT-020,Container Truck,Kolkata,Active,20,76,false,Chennai,Ashim Das,2026-09-01

@@ -1,0 +1,3 @@
+disruption_id,type,location,severity,start_time,expected_duration_hours,status,description,affected_region
+DIS-001,Road Maintenance,NH-48 near Vadodara,Low,2026-09-12T08:00:00,24,Resolved,Minor road maintenance on NH-48 near Vadodara causing single-lane operation. Expected to clear within 24 hours.,Gujarat
+DIS-002,Weather Advisory,Bay of Bengal - East Coast,Medium,2026-09-13T14:00:00,48,Active,Moderate rainfall warning for eastern coastal shipping lanes. Vessels advised to reduce speed. Possible 12-24 hour delays on coastal routes.,East Coast India

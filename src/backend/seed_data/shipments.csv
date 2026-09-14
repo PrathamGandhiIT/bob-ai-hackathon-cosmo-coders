@@ -1,0 +1,31 @@
+shipment_id,origin,destination,cargo_type,cargo_description,priority,status,carrier,eta,route,is_cold_chain,temperature_min,temperature_max,weight_kg,value_usd
+SHP-101,Mumbai,Delhi,Electronics,Consumer electronics - laptops and tablets,High,In Transit,BlueDart Logistics,2026-09-17T14:00:00,Mumbai → Nashik → Indore → Delhi,false,,,2500,125000
+SHP-102,Chennai,Mumbai,Pharmaceuticals,Temperature-sensitive vaccines,Critical,In Transit,DHL Express,2026-09-16T09:00:00,Chennai → Bangalore → Pune → Mumbai,true,2,8,800,450000
+SHP-103,Delhi,Kolkata,Textiles,Cotton fabric rolls,Standard,In Transit,Gati Logistics,2026-09-18T16:00:00,Delhi → Lucknow → Varanasi → Kolkata,false,,,5000,35000
+SHP-104,Hyderabad,Mumbai,Pharmaceuticals,Insulin shipment - refrigerated,Critical,In Transit,Safexpress,2026-09-16T11:00:00,Hyderabad → Pune → Mumbai,true,2,8,400,680000
+SHP-105,Ahmedabad,Mumbai,Automotive Parts,Engine components,High,In Transit,Maersk Logistics,2026-09-17T08:00:00,Ahmedabad → Surat → Mumbai,false,,,3200,95000
+SHP-106,Bangalore,Chennai,Food Products,Fresh dairy products,High,In Transit,DTDC Express,2026-09-15T18:00:00,Bangalore → Chennai,true,0,4,1200,28000
+SHP-107,Kolkata,Delhi,Machinery,Industrial pumps,Standard,In Transit,Allcargo Logistics,2026-09-19T10:00:00,Kolkata → Varanasi → Lucknow → Delhi,false,,,8000,210000
+SHP-108,Mumbai,Ahmedabad,Chemicals,Industrial solvents,High,In Transit,TCI Freight,2026-09-16T15:00:00,Mumbai → Surat → Ahmedabad,false,,,4500,67000
+SHP-109,Pune,Mumbai,Electronics,Server equipment,Critical,In Transit,FedEx India,2026-09-15T20:00:00,Pune → Mumbai,false,,,1800,320000
+SHP-110,Delhi,Mumbai,Consumer Goods,FMCG products,Standard,In Transit,Rivigo,2026-09-18T12:00:00,Delhi → Jaipur → Ahmedabad → Mumbai,false,,,6000,45000
+SHP-111,Chennai,Delhi,Pharmaceuticals,Medical devices - controlled temperature,High,In Transit,BlueDart Logistics,2026-09-19T07:00:00,Chennai → Hyderabad → Nagpur → Delhi,true,15,25,950,520000
+SHP-112,Mumbai,Kolkata,Textiles,Synthetic fabric bales,Standard,In Transit,Gati Logistics,2026-09-20T14:00:00,Mumbai → Nagpur → Raipur → Kolkata,false,,,4200,38000
+SHP-113,Jaipur,Mumbai,Consumer Goods,Handicrafts and artisan jewelry,High,In Transit,DTDC Express,2026-09-17T11:00:00,Jaipur → Ahmedabad → Mumbai,false,,,800,175000
+SHP-114,Bangalore,Mumbai,Electronics,Semiconductor components,Critical,In Transit,DHL Express,2026-09-16T13:00:00,Bangalore → Pune → Mumbai,false,,,600,890000
+SHP-115,Lucknow,Chennai,Food Products,Processed food items,Standard,In Transit,Safexpress,2026-09-19T16:00:00,Lucknow → Nagpur → Hyderabad → Chennai,true,0,10,3500,22000
+SHP-116,Mumbai,Bangalore,Automotive Parts,Transmission assemblies,High,In Transit,Maersk Logistics,2026-09-17T09:00:00,Mumbai → Pune → Bangalore,false,,,2800,130000
+SHP-117,Hyderabad,Delhi,Chemicals,Laboratory reagents,Standard,In Transit,TCI Freight,2026-09-20T10:00:00,Hyderabad → Nagpur → Delhi,false,,,1500,42000
+SHP-118,Kolkata,Mumbai,Machinery,Textile machinery parts,High,In Transit,Allcargo Logistics,2026-09-18T08:00:00,Kolkata → Nagpur → Mumbai,false,,,9500,340000
+SHP-119,Chennai,Pune,Pharmaceuticals,Biotech research samples,Critical,In Transit,FedEx India,2026-09-16T17:00:00,Chennai → Bangalore → Pune,true,2,8,200,1200000
+SHP-120,Mumbai,Jaipur,Consumer Goods,Retail merchandise,Standard,Delivered,Rivigo,2026-09-14T10:00:00,Mumbai → Ahmedabad → Jaipur,false,,,3800,55000
+SHP-121,Delhi,Chennai,Electronics,Telecom equipment,High,In Transit,BlueDart Logistics,2026-09-18T15:00:00,Delhi → Nagpur → Hyderabad → Chennai,false,,,2200,195000
+SHP-122,Ahmedabad,Delhi,Food Products,Frozen vegetables,Standard,In Transit,Gati Logistics,2026-09-19T12:00:00,Ahmedabad → Jaipur → Delhi,true,-18,-10,2800,18000
+SHP-123,Pune,Kolkata,Automotive Parts,Brake assemblies,Standard,In Transit,DTDC Express,2026-09-20T11:00:00,Pune → Mumbai → Nagpur → Raipur → Kolkata,false,,,1900,72000
+SHP-124,Mumbai,Chennai,Pharmaceuticals,Oncology drugs - critical cold chain,Critical,In Transit,DHL Express,2026-09-16T08:00:00,Mumbai → Pune → Bangalore → Chennai,true,2,8,350,2100000
+SHP-125,Bangalore,Ahmedabad,Textiles,Silk fabrics,Standard,In Transit,Safexpress,2026-09-19T14:00:00,Bangalore → Pune → Mumbai → Ahmedabad,false,,,1600,48000
+SHP-126,Delhi,Bangalore,Machinery,CNC machine parts,High,At Origin,Allcargo Logistics,2026-09-21T09:00:00,Delhi → Nagpur → Pune → Bangalore,false,,,7200,280000
+SHP-127,Kolkata,Chennai,Chemicals,Fertilizer compounds,Standard,In Transit,TCI Freight,2026-09-20T16:00:00,Kolkata → Hyderabad → Chennai,false,,,5500,31000
+SHP-128,Mumbai,Lucknow,Consumer Goods,Apparel shipment,Standard,In Transit,Rivigo,2026-09-18T13:00:00,Mumbai → Indore → Lucknow,false,,,2400,62000
+SHP-129,Hyderabad,Mumbai,Food Products,Frozen seafood,High,In Transit,FedEx India,2026-09-17T07:00:00,Hyderabad → Pune → Mumbai,true,-20,-15,1800,95000
+SHP-130,Chennai,Mumbai,Electronics,Display panels,Critical,In Transit,BlueDart Logistics,2026-09-16T19:00:00,Chennai → Bangalore → Pune → Mumbai,false,,,1100,720000

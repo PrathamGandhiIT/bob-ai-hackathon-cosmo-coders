@@ -15,45 +15,54 @@ team:
     name: "Harshit Rameshkumar Dhanani" # REQUIRED — e.g., "Alice Chen"
     email: "hrdhanani2117@gmail.com"   # REQUIRED — e.g., "alice.chen@ibm.com"
   members:
-    - name: ""                         # REQUIRED — Team member 1
-      email: ""
-    - name: ""                         # Add more members by copying the two lines above
-      email: ""
-    - name: ""
-      email: ""
+    - name: "Pratham Gandhi"           # REQUIRED — Team member 1
+      email: "prathamgandhi.dev@gmail.com"
+    - name: "Cosmo Coders Member 2"    # Team member 2
+      email: "member2@cosmocoders.team"
+    - name: "Cosmo Coders Member 3"    # Team member 3
+      email: "member3@cosmocoders.team"
+    - name: "Cosmo Coders Member 4"    # Team member 4
+      email: "member4@cosmocoders.team"
 
 submission:
-  title: "Supply Chain Disruption Assistant & Fleet Utilisation Optimizer" # REQUIRED — Project display name, e.g., "SmartOps Dashboard"
+  title: "SupplyGuard AI — Autonomous Supply Chain Control Tower & Fleet Optimizer" # REQUIRED
 
-  problem_statement: >                 # REQUIRED — 1-3 sentences. What problem? Who has it?
-    Replace this text with a concise description of the real-world problem
-    your project addresses and who experiences it.
+  problem_statement: >
+    Global supply chains suffer multi-billion dollar losses annually from unpredicted disruptions,
+    opaque rerouting decisions, fleet underutilization, and cold-chain temperature excursions.
+    Logistics managers lack an integrated intelligent control tower that can quantify multi-objective
+    trade-offs across cost, delay, risk, and CO2 emissions in real time.
 
-  solution_summary: >                  # REQUIRED — 1-3 sentences. What did you build?
-    Replace this text with a clear description of your solution
-    and how it addresses the problem above.
+  solution_summary: >
+    SupplyGuard AI is an autonomous, AI-driven supply chain resilience engine and control tower.
+    It correlates active geopolitical, port, and weather disruptions with in-transit shipments,
+    evaluates multi-carrier rerouting alternatives using Pareto-optimal trade-offs, optimizes
+    fleet vehicle allocations, monitors pharmaceutical/perishable cold-chain integrity via IoT telemetry,
+    and provides an interactive AI Copilot powered by watsonx.ai / IBM Bob.
 
-  key_features:                        # REQUIRED — List 3 to 5 specific features you implemented
-    - ""                               # e.g., "Real-time pipeline anomaly detection using watsonx.ai"
-    - ""
-    - ""
-    - ""                               # optional 4th
-    - ""                               # optional 5th
+  key_features:
+    - "Real-Time Disruption Impact Matrix: Correlates global disruptions (port strikes, canal closures, weather) against active multimodal shipments."
+    - "Multi-Objective Rerouting Engine: Evaluates air/ocean/rail alternatives with Pareto-optimal trade-off scoring across Cost, Delay, Risk, and CO2."
+    - "Dynamic Fleet Utilization Optimizer: Identifies idle and low-utilization vehicles, calculating redeployment capacity and CO2 savings."
+    - "Cold Chain IoT Compliance Guard: Real-time telemetry monitoring with automated excursion detection and spoilage risk alerts for sensitive cargo."
+    - "Context-Aware AI Copilot: Interactive conversational assistant powered by watsonx.ai with structured operational action recommendations."
 
   tech_stack:
-    languages: []                      # REQUIRED — e.g., ["Python", "TypeScript"]
-    frameworks: []                     # e.g., ["FastAPI", "React"]
-    ibm_technologies: []               # e.g., ["watsonx.ai", "IBM Bob", "IBM Cloud Functions"]
-    databases: []                      # e.g., ["PostgreSQL", "Redis"]
-    other: []                          # e.g., ["Docker", "GitHub Actions", "Slack API"]
+    languages: ["Python", "JavaScript", "HTML", "CSS"]
+    frameworks: ["FastAPI", "React", "Vite", "Tailwind CSS", "Uvicorn", "Pydantic"]
+    ibm_technologies: ["watsonx.ai", "IBM Bob AI Assistant"]
+    databases: ["SQLite", "Pandas DataFrames"]
+    other: ["Recharts", "Lucide React", "Axios"]
 
-  what_we_are_most_proud_of: >         # Optional but recommended — guides judges to your best work
-    Replace with what aspect of the submission you consider strongest
-    and want judges to pay special attention to.
+  what_we_are_most_proud_of: >
+    The Multi-Objective Rerouting Optimization Engine that doesn't just suggest single-path fixes,
+    but provides complete mathematical trade-off transparency (Cost vs ETA Delay vs Risk Index vs CO2 Emissions)
+    with human-in-the-loop decision capability and an AI Copilot that automatically synthesizes actionable recovery playbooks.
 
-  known_limitations: >                 # Optional but recommended — be honest about gaps
-    Replace with any known limitations, incomplete features,
-    or shortcuts taken due to time constraints.
+  known_limitations: >
+    Currently uses an embedded SQLite database and realistic synthetic historical datasets for local hackathon evaluation.
+    Production scaling would connect directly into live AIS marine satellite streams, ERP connectors (SAP/Oracle),
+    and enterprise Kafka streaming pipelines.
 
 # =============================================================================
 # ARTIFACT LOCATIONS
