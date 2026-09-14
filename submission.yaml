@@ -16,13 +16,11 @@ team:
     email: "hrdhanani2117@gmail.com"   # REQUIRED — e.g., "alice.chen@ibm.com"
   members:
     - name: "Pratham Gandhi"           # REQUIRED — Team member 1
-      email: "prathamgandhi.dev@gmail.com"
-    - name: "Cosmo Coders Member 2"    # Team member 2
-      email: "member2@cosmocoders.team"
-    - name: "Cosmo Coders Member 3"    # Team member 3
-      email: "member3@cosmocoders.team"
-    - name: "Cosmo Coders Member 4"    # Team member 4
-      email: "member4@cosmocoders.team"
+      email: "prathamgandhi0908@gmail.com"
+    - name: "Pratik Agarwal"           # Team member 2
+      email: "pratik22agarwal@gmail.com"
+    - name: "Dhairya Shah"             # Team member 3
+      email: "shahdhairya712@gmail.com"
 
 submission:
   title: "SupplyGuard AI — Autonomous Supply Chain Control Tower & Fleet Optimizer" # REQUIRED

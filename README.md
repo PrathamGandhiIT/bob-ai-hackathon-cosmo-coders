@@ -18,7 +18,7 @@
 | **Team Name** | **Cosmo Coders** |
 | **Hackathon Track** | **AI** (Problem L2 — Supply Chain Disruption Assistant & Fleet Utilisation Optimizer) |
 | **Team Lead** | **Harshit Dhanani** — [hrdhanani2117@gmail.com](mailto:hrdhanani2117@gmail.com) |
-| **Team Members** | Harshit Dhanani, Aarav Shah & Team Cosmo Coders |
+| **Team Members** | Harshit Dhanani,Pratham Gandhi ,pratik Agarwal and Dhairya Shah  |
 | **Repository** | [github.com/hars-star/bob-ai-hackathon-cosmo-coders](https://github.com/hars-star/bob-ai-hackathon-cosmo-coders) |
 
 ---

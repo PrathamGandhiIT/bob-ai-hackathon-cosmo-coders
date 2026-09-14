@@ -52,5 +52,5 @@ Place your finalized slide export here as `slides.pdf` or `slides.pptx`.
   - Zero-config local launch with automated database seeding.
 
 ### Slide 8: The Team & Vision
-- **Team Cosmo Coders**: Harshit Dhanani (Team Lead), Aarav Shah, and Team.
+- **Team Cosmo Coders**: Harshit Dhanani (Team Lead), Pratham Gandhi, Pratik Agarwal, Dhairya Shah.
 - **Future Roadmap**: Live AIS satellite marine data ingestion, SAP/Oracle ERP connectors, and Kafka streaming architecture.
